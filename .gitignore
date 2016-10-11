@@ -1,2 +1,10 @@
 .DS_Store
 *.swp
+
+*.aux
+*.log
+*.nav
+*.out
+*.pdf
+*.snm
+*.toc
